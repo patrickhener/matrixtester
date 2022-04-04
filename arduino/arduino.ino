@@ -44,6 +44,16 @@ byte copyright[8] = {
 /***********************/
 /*       Functions     */
 /***********************/
+/* Display the hit on LCD */
+void DisplayHit(String hit)
+{
+  lcd.clear();
+  lcd.setCursor(0,0);
+  lcd.print("Hit detected:");
+  lcd.setCursor(0,1);
+  lcd.print(hit);
+}
+
 void EvalThrow()
 { 
   for (int x = 0; x < 4; x++)
@@ -68,16 +78,6 @@ void EvalThrow()
       }
     }
   }
-}
-
-/* Display the hit on LCD */
-void DisplayHit(String hit)
-{
-  lcd.clear();
-  lcd.setCursor(0,0);
-  lcd.print("Hit detected:");
-  lcd.setCursor(0,1);
-  lcd.print(hit);
 }
 
 /* Display intro on LCD */
