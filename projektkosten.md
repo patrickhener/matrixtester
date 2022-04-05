@@ -12,3 +12,8 @@
 ## Summe Tag:
 
 42.86 + 5h
+
+# 05.04.2022
+
+## Arbeitszeit
+- 3D Design = 5h
