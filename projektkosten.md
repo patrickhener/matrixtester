@@ -26,6 +26,16 @@
 
 18.28 + 6,5h
 
+# 06.04.2022
+
+## Hardware 
+
+- Case = 10
+
+## Summe Tag
+
+10
+
 # 21.04.2022
 
 ## Arbeitszeit
