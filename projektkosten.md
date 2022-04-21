@@ -26,4 +26,11 @@
 
 18.28 + 6,5h
 
+# 21.04.2022
 
+## Arbeitszeit
+- Case Design anpassen und Platine löten und testen = 2h
+
+## Summe Tag
+
+2h
