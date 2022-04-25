@@ -44,3 +44,16 @@
 ## Summe Tag
 
 2h
+
+# 24.04.2022
+
+## Arbeitszeit
+- Endmontage Prototyp 1 und testing
+
+## Hardware 
+
+- Case = 10
+
+## Summe Tag
+
+10 + 1h
