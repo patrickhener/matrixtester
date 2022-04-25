@@ -57,3 +57,15 @@
 ## Summe Tag
 
 10 + 1h
+
+# 25.04.2022
+
+## Arbeitszeit
+- Anleitung schreiben und Logo Design = 3h
+
+## Hardware
+- Versandkosten = 4,99
+
+## Summe Tag
+
+4,99 + 3h
