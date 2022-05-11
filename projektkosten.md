@@ -28,7 +28,7 @@
 
 # 06.04.2022
 
-## Hardware 
+## Hardware
 
 - Case = 10
 
@@ -50,7 +50,7 @@
 ## Arbeitszeit
 - Endmontage Prototyp 1 und testing
 
-## Hardware 
+## Hardware
 
 - Case = 10
 
@@ -69,3 +69,23 @@
 ## Summe Tag
 
 4,99 + 3h
+
+# 10.05.2022
+
+## Hardware
+- Case 2. Prototyp = 10
+
+## Summe Tag
+
+10
+
+# 11.05.2022
+
+## Arbeitszeit
+- Splitting in i2c und non i2c = 0,5h
+- Programm anpassen für non i2c = 0,5h
+- Case für 2. Prototyp anpassen (Deckel) = 1h
+- PCB Redesign für non i2c = ?h
+
+## Summe Tag
+
