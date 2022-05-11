@@ -61,9 +61,11 @@
 # 25.04.2022
 
 ## Arbeitszeit
+
 - Anleitung schreiben und Logo Design = 3h
 
 ## Hardware
+
 - Versandkosten = 4,99
 
 ## Summe Tag
@@ -82,10 +84,12 @@
 # 11.05.2022
 
 ## Arbeitszeit
+
 - Splitting in i2c und non i2c = 0,5h
 - Programm anpassen für non i2c = 0,5h
 - Case für 2. Prototyp anpassen (Deckel) = 1h
-- PCB Redesign für non i2c = ?h
+- PCB Redesign für non i2c = 2h
 
 ## Summe Tag
 
+4 h
