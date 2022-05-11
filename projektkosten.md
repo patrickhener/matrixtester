@@ -91,6 +91,10 @@
 - Case für 2. Prototyp anpassen (Deckel) = 1h
 - PCB Redesign für non i2c = 2h
 
+## Hardware
+
+- 25 x PCB i2c Version = 18,86
+
 ## Summe Tag
 
-4 h
+18,86 + 4 h
