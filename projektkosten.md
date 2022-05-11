@@ -76,10 +76,11 @@
 
 ## Hardware
 - Case 2. Prototyp = 10
+- Display (Ersatz weil broken) = 6
 
 ## Summe Tag
 
-10
+16
 
 # 11.05.2022
 
