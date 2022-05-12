@@ -98,3 +98,17 @@
 ## Summe Tag
 
 18,86 + 4 h
+
+# 12.05.2022
+
+## Arbeitszeit
+
+- Deckel überarbeiten 1h
+
+## Hardware
+
+- 2 Deckel = 2x4
+
+## Summe Tag
+
+8 + 1h
